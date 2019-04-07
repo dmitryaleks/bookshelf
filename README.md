@@ -1,5 +1,25 @@
 # Bookshelf
 
+## Andrew Ng (2019): "Machine Learning Yearning"
+
+This book is explaining how to apply ML to real-life projects. Broadly covers:
+
+  - how to set the direction and objectives for a project;
+  - what are the common practices and tricks to be considered throughout the project;
+  - general methodology of supervised ML;
+  - input data management and model performance verification;
+  - common caveats and tricks to avoid them.
+
+### Copyright and distribution
+
+Draft version is distributed freely:
+
+[Free subscription](https://www.mlyearning.org/)
+
+### Getting the book
+
+[Full PDF of the book (draft version as of April 2019)](https://github.com/dmitryaleks/bookshelf/blob/master/machine-learning-yearning/MLY_V0.5_Full_Draft.pdf)
+
 ## A. Burkov (2019): "The Hundred-Page Machine Larning Book"
 
 This book is a set of introduction-level notes on ML, covering basic principles, methodology, models and problems in a pretty concise manner. It doesn't put emphasis on code, but rather tries to explains general ideas and principles. It aims for bredth not depth, so it is a good summary to find out or be reminded of what is available out there in the ML world.
