@@ -2,12 +2,12 @@
 
 ## Andrew Ng (2019): "Machine Learning Yearning"
 
-This book is explaining how to apply ML to real-life projects. Broadly covers:
+This book is explaining how to apply ML to real-life projects. Broadly covers following topics in 116 pages:
 
   - how to set the direction and objectives for a project;
-  - what are the common practices and tricks to be considered throughout the project;
+  - useful common practices for each stage of the project;
   - general methodology of supervised ML;
-  - input data management and model performance verification;
+  - input data management and model performance evaluation;
   - common caveats and tricks to avoid them.
 
 ### Copyright and distribution
@@ -22,14 +22,13 @@ Draft version is distributed freely:
 
 [Direct download link](https://github.com/dmitryaleks/bookshelf/raw/master/machine-learning-yearning/MLY_V0.5_Full_Draft.pdf)
 
-## A. Burkov (2019): "The Hundred-Page Machine Larning Book"
+## Andriy Burkov (2019): "The Hundred-Page Machine Larning Book"
 
-This book is a set of introduction-level notes on ML, covering basic principles, methodology, models and problems in a pretty concise manner. It doesn't put emphasis on code, but rather tries to explains general ideas and principles. It aims for bredth not depth, so it is a good summary to find out or be reminded of what is available out there in the ML world.
+This book is a set of introduction-level notes on ML, covering basic principles, methodology, models and types of problems in a pretty concise manner (in just 130 pages). It doesn't put emphasis on code examples, but rather attempts to explains general ideas and principles. It aims for wide breadth rather than depth, so it serves as a good bird eye view level reference that can be used to find out or be reminded of what is available out there in the ML world.
 
-It comes with an accompanying Wiki that has pointers to deeper meterials for various topics touched upon in the book. Whenever there is a QR code printed inline with the chapter - follow the URL encoded in it to reach for more details.
+It comes with a companion Wiki that has pointers to deeper meterials for various topics touched upon in the book. Whenever there is a QR code printed inline with some topic - following the URL encoded in it leads to a relevant page in the companion Wiki.
 
 ### Copyright and distribution
-
 
 According to the author of the book:
 
