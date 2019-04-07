@@ -19,6 +19,9 @@ PDF of the full book (virtually identical to the published paper version):
 
 [Full book PDF](the-hundred-page-ml-book/The Hundred-Page Machine Learning Book.pdf)
 
+    The Hundred-Page Machine Learning Book.pdf
+[Full PDF of the book]('the-hundred-page-ml-book/The Hundred-Page Machine Learning Book.pdf' "Full PDF of the book")
+
 
 A physical copy can be purchased via Amazon:
 [Amazon: Paperback](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
