@@ -20,6 +20,8 @@ Draft version is distributed freely:
 
 [Full PDF of the book (draft version as of April 2019)](https://github.com/dmitryaleks/bookshelf/blob/master/machine-learning-yearning/MLY_V0.5_Full_Draft.pdf)
 
+[Direct download link](https://github.com/dmitryaleks/bookshelf/raw/master/machine-learning-yearning/MLY_V0.5_Full_Draft.pdf)
+
 ## A. Burkov (2019): "The Hundred-Page Machine Larning Book"
 
 This book is a set of introduction-level notes on ML, covering basic principles, methodology, models and problems in a pretty concise manner. It doesn't put emphasis on code, but rather tries to explains general ideas and principles. It aims for bredth not depth, so it is a good summary to find out or be reminded of what is available out there in the ML world.
