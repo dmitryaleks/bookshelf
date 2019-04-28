@@ -1,5 +1,15 @@
 # Bookshelf
 
+## Aurelien Geron (2017): "Hands-On Machine Learning with Scikit-Learn & TensorFlow"
+
+Walks reader through an example ML project end-to-end, pointing at the right tools and methodologies along the way.
+
+Explains how to prepare data to be used by ML algorithm and implement various models using Scikit-Learn and TensorFlow.
+
+[Detailed notes](https://github.com/dmitryaleks/hands-on-ml)
+
+[This book on Amazon.com](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?crid=32WBNAAW9XWA2&keywords=hand-on+machine+learning+by+aurelien+geron&qid=1556437761&s=gateway&sprefix=hand-on+ma%2Caps%2C278&sr=8-1)
+
 ## Andrew Ng (2019): "Machine Learning Yearning"
 
 This book is explaining how to apply ML to real-life projects. Broadly covers following topics in 116 pages:
