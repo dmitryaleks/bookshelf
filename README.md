@@ -32,6 +32,14 @@ Draft version is distributed freely:
 
 [Direct download link](https://github.com/dmitryaleks/bookshelf/raw/master/machine-learning-yearning/MLY_V0.5_Full_Draft.pdf)
 
+## Stefan Jensen (2018): "Hands-On Machine Learning for Algorithmic Trading"
+
+Has a decent explanation on Time Series Modelling.
+
+[Detailed notes](https://github.com/dmitryaleks/ml-trading)
+
+[Link to the book](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading)
+
 ## Andriy Burkov (2019): "The Hundred-Page Machine Larning Book"
 
 This book is a set of introduction-level notes on ML, covering basic principles, methodology, models and types of problems in a pretty concise manner (in just 130 pages). It doesn't put emphasis on code examples, but rather attempts to explains general ideas and principles. It aims for wide breadth rather than depth, so it serves as a good bird eye view level reference that can be used to find out or be reminded of what is available out there in the ML world.
