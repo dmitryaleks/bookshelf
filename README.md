@@ -70,6 +70,8 @@ According to the author of the book:
 
 [Full PDF](python-data-science-handbook/python-data-science-handbook.pdf)
 
+[Detailed notes](https://github.com/dmitryaleks/python-data-science)
+
 ## A. Downey (2011): "Think Stats: Probability and Statistics for Programmers"
 
 [Full PDF](think-stats/think-stats.pdf)
