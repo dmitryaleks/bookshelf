@@ -59,3 +59,17 @@ According to the author of the book:
 [Direct PDF download link](https://github.com/dmitryaleks/bookshelf/raw/master/the-hundred-page-ml-book/The%20Hundred-Page%20Machine%20Learning%20Book.pdf)
 
 [Amazon: Paperback](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+
+## P.Bruce (2016): "Practical Statistics for Data Scientists"
+
+[Full PDF: ebook](practical-statistics-for-data-scientists/practical-statistics-for-data-scientists-ebook.pdf)
+
+[Full PDF: paperback](practical-statistics-for-data-scientists/practical-statistics-for-data-scientists.pdf)
+
+## J.VanderPlas "Python Data Science Handbook: essential tools for working with data"
+
+[Full PDF](python-data-science-handbook/python-data-science-handbook.pdf)
+
+## A. Downey (2011): "Think Stats: Probability and Statistics for Programmers"
+
+[Full PDF](think-stats/think-stats.pdf)
