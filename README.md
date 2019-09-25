@@ -60,6 +60,12 @@ According to the author of the book:
 
 [Amazon: Paperback](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
 
+## Andriy Burkov (2019): "Machine Learning Engineering"
+
+This book summarizes how ML project should be aproached and organized.
+
+[Full PDF: ebook (work in progress as of September 2019)](machine-learning-engineering/machine-learning-engineering.pdf)
+
 ## P.Bruce (2016): "Practical Statistics for Data Scientists"
 
 [Full PDF: ebook](practical-statistics-for-data-scientists/practical-statistics-for-data-scientists-ebook.pdf)
