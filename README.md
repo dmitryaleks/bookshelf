@@ -81,3 +81,9 @@ This book summarizes how ML project should be aproached and organized.
 ## A. Downey (2011): "Think Stats: Probability and Statistics for Programmers"
 
 [Full PDF](think-stats/think-stats.pdf)
+
+## M.L. De Prado (2018): "Advances in Financial Machine Learning"
+
+[Amazon: Paperback](https://www.amazon.co.jp/Advances-Financial-Machine-Learning-English-ebook/dp/B079KLDW21)
+
+[Notes](advances-in-financial-machine-learning/NOTES.md)
